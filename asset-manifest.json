@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/verstka3/static/css/main.7d0a9147.css",
+    "main.js": "/verstka3/static/js/main.b62bf82e.js",
+    "index.html": "/verstka3/index.html",
+    "main.7d0a9147.css.map": "/verstka3/static/css/main.7d0a9147.css.map",
+    "main.b62bf82e.js.map": "/verstka3/static/js/main.b62bf82e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d0a9147.css",
+    "static/js/main.b62bf82e.js"
+  ]
+}
